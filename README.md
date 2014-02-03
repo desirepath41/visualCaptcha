@@ -14,14 +14,27 @@ Please note each have their own version numbers, but we're committed to keep the
 
 We're calling this new version of visualCaptcha "5.0", even though some of these packages and versions start at 1. It's just internal nomenclature.
 
-- [PHP & jQuery demo](https://github.com/emotionLoop/visualCaptcha-PHP) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-PHP.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-PHP)
-- [Node.js & Vanilla JS demo](https://github.com/emotionLoop/visualCaptcha-node) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-node.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-node)
-- [Ruby & Angular.js demo](https://github.com/emotionLoop/visualCaptcha-ruby) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-ruby.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-ruby)
-- [Meteor & Vanilla JS demo](https://github.com/emotionLoop/visualCaptcha-meteor) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-meteor.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-meteor)
-- [PHP Composer back-end package](https://github.com/emotionLoop/visualCaptcha-packagist) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-packagist.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-packagist)
-- [Node.js NPM back-end package](https://github.com/emotionLoop/visualCaptcha-npm) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-npm.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-npm)
-- [RubyGem back-end package](https://github.com/emotionLoop/visualCaptcha-rubyGem) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-rubyGem.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-rubyGem)
-- [Meteor Meteorite back-end package](https://github.com/emotionLoop/visualCaptcha-meteorite) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-meteorite.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-meteorite)
+### Full-stack demos
+
+- [PHP & jQuery](https://github.com/emotionLoop/visualCaptcha-PHP) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-PHP.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-PHP)
+- [Node.js & Vanilla JS](https://github.com/emotionLoop/visualCaptcha-node) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-node.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-node)
+- [Ruby & Angular.js](https://github.com/emotionLoop/visualCaptcha-ruby) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-ruby.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-ruby)
+- [Meteor & Vanilla JS](https://github.com/emotionLoop/visualCaptcha-meteor) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-meteor.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-meteor)
+- [PHP & jQuery Multiple Captchas](https://github.com/emotionLoop/visualCaptcha-multiple) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-multiple.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-multiple)
+
+### Back-end packages
+- [PHP Composer/Packagist](https://github.com/emotionLoop/visualCaptcha-packagist) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-packagist.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-packagist)
+- [Node.js NPM](https://github.com/emotionLoop/visualCaptcha-npm) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-npm.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-npm)
+- [RubyGem](https://github.com/emotionLoop/visualCaptcha-rubyGem) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-rubyGem.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-rubyGem)
+- [Meteor Meteorite](https://github.com/emotionLoop/visualCaptcha-meteorite) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-meteorite.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-meteorite)
+
+### Front-end packages
+- [Core](https://github.com/emotionLoop/visualCaptcha-frontend-core) (builds the other bower packages) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-frontend-core.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-frontend-core)
+- [Vanilla JS Bower package](https://github.com/emotionLoop/visualCaptcha-frontend-vanilla) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-frontend-vanilla.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-frontend-vanilla)
+- [jQuery Plugin Bower package](https://github.com/emotionLoop/visualCaptcha-frontend-jquery) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-frontend-jquery.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-frontend-jquery)
+- [Angular.js Directive Bower package](https://github.com/emotionLoop/visualCaptcha-frontend-angular) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-frontend-angular.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-frontend-angular)
+
+### Full-stack Plugins
 - [WordPress plugin](https://github.com/emotionLoop/visualCaptcha-WordPress)
 
 ## Unofficial versions (created by community members)
