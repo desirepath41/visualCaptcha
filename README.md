@@ -25,14 +25,14 @@ We're calling this new version of visualCaptcha "5.0", even though some of these
 ### Back-end packages
 - [PHP Composer/Packagist](https://github.com/emotionLoop/visualCaptcha-packagist) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-packagist.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-packagist)
 - [Node.js NPM](https://github.com/emotionLoop/visualCaptcha-npm) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-npm.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-npm)
-- [RubyGem](https://github.com/emotionLoop/visualCaptcha-rubyGem) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-rubyGem.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-rubyGem)
+- [RubyGem](https://github.com/emotionLoop/visualCaptcha-rubyGem) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-rubyGem.png?branch=0.0.1)](https://travis-ci.org/emotionLoop/visualCaptcha-rubyGem)
 - [Meteor Meteorite](https://github.com/emotionLoop/visualCaptcha-meteorite) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-meteorite.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-meteorite)
 
 ### Front-end packages
-- [Core](https://github.com/emotionLoop/visualCaptcha-frontend-core) (builds the other bower packages) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-frontend-core.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-frontend-core)
-- [Vanilla JS Bower package](https://github.com/emotionLoop/visualCaptcha-frontend-vanilla) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-frontend-vanilla.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-frontend-vanilla)
-- [jQuery Plugin Bower package](https://github.com/emotionLoop/visualCaptcha-frontend-jquery) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-frontend-jquery.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-frontend-jquery)
-- [Angular.js Directive Bower package](https://github.com/emotionLoop/visualCaptcha-frontend-angular) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-frontend-angular.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-frontend-angular)
+- [Core](https://github.com/emotionLoop/visualCaptcha-frontend-core) (builds the other bower packages)
+- [Vanilla JS Bower package](https://github.com/emotionLoop/visualCaptcha-frontend-vanilla)
+- [jQuery Plugin Bower package](https://github.com/emotionLoop/visualCaptcha-frontend-jquery)
+- [Angular.js Directive Bower package](https://github.com/emotionLoop/visualCaptcha-frontend-angular)
 
 ### Full-stack Plugins
 - [WordPress plugin](https://github.com/emotionLoop/visualCaptcha-WordPress)
