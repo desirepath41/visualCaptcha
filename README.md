@@ -44,6 +44,7 @@ Please note we don't maintain these and it's very likely they're outdated. **Use
 - [CodeIgniter Spark](https://github.com/montch/visualcaptcha-spark)
 - [RubyGem](https://github.com/kimenye/visualcaptcha)
 - [SailsJS](https://github.com/kavuri/sailsjs-visualcaptcha)
+- [Grails/Java](https://github.com/matthew-b-payne/visualCaptcha-Grails)
 
 ## Want more?
 
