@@ -45,6 +45,7 @@ Please note we don't maintain these and it's very likely they're outdated. **Use
 - [RubyGem](https://github.com/kimenye/visualcaptcha)
 - [SailsJS](https://github.com/kavuri/sailsjs-visualcaptcha)
 - [Grails/Java](https://github.com/matthew-b-payne/visualCaptcha-Grails)
+- [Laravel](https://github.com/Metrakit/VisualCaptcha-Laravel)
 
 ## Want more?
 
