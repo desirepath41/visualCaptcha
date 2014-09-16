@@ -39,7 +39,7 @@ We're calling this new version of visualCaptcha "5.0", even though some of these
 
 ## Unofficial versions (created by community members)
 
-Please note we don't maintain these and it's very likely they're outdated. **Use at your own risk.**
+Please note we don't maintain these and some might be outdated. **Use at your own risk.**
 
 - [CodeIgniter Spark](https://github.com/montch/visualcaptcha-spark)
 - [RubyGem](https://github.com/kimenye/visualcaptcha)
