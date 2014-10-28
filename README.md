@@ -27,6 +27,7 @@ We're calling this new version of visualCaptcha "5.0", even though some of these
 - [Node.js NPM](https://github.com/emotionLoop/visualCaptcha-npm) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-npm.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-npm)
 - [RubyGem](https://github.com/emotionLoop/visualCaptcha-rubyGem) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-rubyGem.png?branch=0.0.1)](https://travis-ci.org/emotionLoop/visualCaptcha-rubyGem)
 - [Meteor Meteorite](https://github.com/emotionLoop/visualCaptcha-meteorite) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-meteorite.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-meteorite)
+- [Python Pypi/PIP](https://github.com/emotionLoop/visualCaptcha-python) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-python.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-python)
 
 ### Front-end packages
 - [Core](https://github.com/emotionLoop/visualCaptcha-frontend-core) (builds the other bower packages)
