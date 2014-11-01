@@ -21,6 +21,7 @@ We're calling this new version of visualCaptcha "5.0", even though some of these
 - [Ruby & Angular.js](https://github.com/emotionLoop/visualCaptcha-ruby) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-ruby.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-ruby)
 - [Meteor & Vanilla JS](https://github.com/emotionLoop/visualCaptcha-meteor) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-meteor.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-meteor)
 - [PHP & jQuery Multiple Captchas](https://github.com/emotionLoop/visualCaptcha-multiple) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-multiple.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-multiple)
+- [Django & Vanilla JS](https://github.com/emotionLoop/visualCaptcha-django) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-django.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-django)
 
 ### Back-end packages
 - [PHP Composer/Packagist](https://github.com/emotionLoop/visualCaptcha-packagist) [![Build Status](https://travis-ci.org/emotionLoop/visualCaptcha-packagist.png?branch=master)](https://travis-ci.org/emotionLoop/visualCaptcha-packagist)
