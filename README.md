@@ -50,6 +50,7 @@ Please note we don't maintain these and some might be outdated. **Use at your ow
 - [Laravel](https://github.com/Metrakit/VisualCaptcha-Laravel)
 - [ASP.NET](https://github.com/lukeautry/visualCaptcha-aspnet)
 - [ASP.NET](https://github.com/terabytenz/VisualCaptcha.Net)
+- [Java](https://github.com/bdotzour/visualCaptcha-java)
 
 ## Want more?
 
