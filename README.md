@@ -51,6 +51,7 @@ Please note we don't maintain these and some might be outdated. **Use at your ow
 - [ASP.NET](https://github.com/lukeautry/visualCaptcha-aspnet)
 - [ASP.NET](https://github.com/terabytenz/VisualCaptcha.Net)
 - [Java](https://github.com/bdotzour/visualCaptcha-java)
+- [Laravel + jQuery](https://github.com/hugocabral/visualCaptcha-Laravel-jQuery)
 
 ## Want more?
 
