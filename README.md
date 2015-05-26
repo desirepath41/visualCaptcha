@@ -53,6 +53,7 @@ Please note we don't maintain these and some might be outdated. **Use at your ow
 - [Java](https://github.com/bdotzour/visualCaptcha-java)
 - [Laravel + jQuery](https://github.com/hugocabral/visualCaptcha-Laravel-jQuery)
 - [CakePHP + jQuery](https://github.com/hashmode/VisualCaptcha-Cakephp-Plugin)
+- [Java + Spring + AngularJS](https://github.com/tillkuhn/visualCaptcha-java-rest)
 
 ## Want more?
 
