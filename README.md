@@ -82,3 +82,5 @@ Please note we don't maintain these and some might be outdated. **Use at your ow
 Yeah, this repo exists only to be a place to list all other repos.
 
 More information at http://visualcaptcha.net.
+
+If you find value in this, [please consider donating a dollar](https://medium.com/@BrunoBernardino/if-i-ve-helped-you-consider-donating-86952f22e3b4).
