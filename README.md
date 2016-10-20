@@ -76,6 +76,7 @@ Please note we don't maintain these and some might be outdated. **Use at your ow
 - [Java + Spring + AngularJS](https://github.com/tillkuhn/visualCaptcha-java-rest)
 - [Meteor](https://github.com/andi-bute/captcha-meteor)
 - [CakePHP + NetCommons3 + Japanese](https://github.com/NetCommons3/VisualCaptcha)
+- [Java JAX-RS + JQuery](https://github.com/raphaeloneves/captcha-ws)
 
 ## Want more?
 
