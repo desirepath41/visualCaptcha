@@ -1,5 +1,7 @@
 # visualCaptcha
 
+** Please note visualCaptcha is no longer actively developed. Any PRs will be reviewed and accepted if beneficial, though. Also any help necessary for existing versions setup will continue to be provided by [emotionLoop](http://emotionloop.com) **
+
 visualCaptcha is a configurable captcha solution, focusing on accessibility & simplicity, whilst maintaining security. It's also localizable and free, open-source, and we encourage customizations per site.
 
 It also supports mobile, retina devices, and has an innovative accessibility solution.
@@ -8,7 +10,7 @@ If you want information about what visualCaptcha is, go to http://visualcaptcha.
 
 visualCaptcha supports many back-end and front-end languages/frameworks/libraries, which you can look into in more depth below:
 
-## Official demos and packages (supported by [emotionLoop](http://emotionloop.com) & [Clevertech](http://www.clevertech.biz))
+## Official demos and packages (built by [emotionLoop](http://emotionloop.com) & [Clevertech](http://www.clevertech.biz))
 
 Please note each have their own version numbers, but we're committed to keep them all up-to-date.
 
@@ -58,6 +60,7 @@ These are all built by the [Front-end Core Repo](https://github.com/emotionLoop/
 These are plug-ins for popular CMS' that are plug-and-play.
 
 - [WordPress plugin](https://github.com/emotionLoop/visualCaptcha-WordPress)
+- [e107 Bootstrap CMS](https://e107.org/plugins/?id=853)
 
 ## Unofficial versions (created by community members)
 
