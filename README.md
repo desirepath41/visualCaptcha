@@ -1,6 +1,6 @@
 # visualCaptcha
 
-** Please note visualCaptcha is no longer actively developed. Any PRs will be reviewed and accepted if beneficial, though. Also any help necessary for existing versions setup will continue to be provided by [emotionLoop](http://emotionloop.com) **
+**Please note visualCaptcha is no longer actively developed. It still works and should continue to, but it won't be improved by the initial team anymore. Any PRs will be reviewed and accepted if beneficial, though. Also any help necessary for existing versions setup will continue to be provided by [emotionLoop](http://emotionloop.com)**
 
 visualCaptcha is a configurable captcha solution, focusing on accessibility & simplicity, whilst maintaining security. It's also localizable and free, open-source, and we encourage customizations per site.
 
