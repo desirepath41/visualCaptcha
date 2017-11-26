@@ -1,16 +1,16 @@
 # visualCaptcha
 
-**Please note visualCaptcha is no longer actively developed. It still works and should continue to, but it won't be improved by the initial team anymore. Any PRs will be reviewed and accepted if beneficial, though. Also any help necessary for existing versions setup will continue to be provided by [emotionLoop](http://emotionloop.com)**
+**Please note visualCaptcha is no longer actively developed. It still works and should continue to, but it won't be improved by the initial team anymore. Any PRs will be reviewed and accepted if beneficial, though. Also any help necessary for existing versions setup will continue to be provided by [emotionLoop](https://emotionloop.com)**
 
 visualCaptcha is a configurable captcha solution, focusing on accessibility & simplicity, whilst maintaining security. It's also localizable and free, open-source, and we encourage customizations per site.
 
 It also supports mobile, retina devices, and has an innovative accessibility solution.
 
-If you want information about what visualCaptcha is, go to http://visualcaptcha.net. It's licensed under MIT, but you can reach us if you want other licenses.
+If you want information about what visualCaptcha is, go to https://visualcaptcha.net. It's licensed under MIT, but you can reach us if you want other licenses.
 
 visualCaptcha supports many back-end and front-end languages/frameworks/libraries, which you can look into in more depth below:
 
-## Official demos and packages (built by [emotionLoop](http://emotionloop.com) & [Clevertech](http://www.clevertech.biz))
+## Official demos and packages (built by [emotionLoop](https://emotionloop.com) & [Clevertech](http://www.clevertech.biz))
 
 Please note each have their own version numbers, but we're committed to keep them all up-to-date.
 
@@ -85,6 +85,6 @@ Please note we don't maintain these and some might be outdated. **Use at your ow
 
 Yeah, this repo exists only to be a place to list all other repos.
 
-More information at http://visualcaptcha.net.
+More information at https://visualcaptcha.net.
 
-If you find value in this, [please consider donating a dollar](https://medium.com/@BrunoBernardino/if-i-ve-helped-you-consider-donating-86952f22e3b4).
+If you find value in this, [please consider donating a dollar](https://thoughts.brunobernardino.com/if-i-ve-helped-you-consider-donating/).
