@@ -67,6 +67,7 @@ These are plug-ins for popular CMS' that are plug-and-play.
 Please note we don't maintain these and some might be outdated. **Use at your own risk.**
 
 - [CodeIgniter Spark](https://github.com/montch/visualcaptcha-spark)
+- [Laravel with jQuery](https://github.com/mobarokhossen/visual-captcha-laravel-jquery)
 - [RubyGem](https://github.com/kimenye/visualcaptcha)
 - [SailsJS](https://github.com/kavuri/sailsjs-visualcaptcha)
 - [Grails/Java](https://github.com/matthew-b-payne/visualCaptcha-Grails)
